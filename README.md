@@ -2,6 +2,8 @@
 
 These are the CAD files, which are necessary to print your own balancing robot.
 
+![Balancing Robot](robot.jpg)
+
 ## Attention
 
 * Consider where to put your 
