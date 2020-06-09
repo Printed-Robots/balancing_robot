@@ -1,6 +1,6 @@
 # Balancing Robot Version 1.0
 
-These are the CAD files, which are necessary to print your own balancing robot. Feel free to take a look at the [robot assembly file](RobotAssembly.stl) in this repository!
+These are the CAD files, which are necessary to print your own balancing robot. Feel free to take a look at the [robot assembly file](stl/RobotAssembly.stl) in this repository!
 
 ![Balancing Robot](robot.jpg)
 
@@ -11,6 +11,12 @@ These are the CAD files, which are necessary to print your own balancing robot. 
   * power converters and
   * battery
 * The not-in-line holes on the `BasePlate` are matching to a Raspberry Pi 3b
+
+## Parts to print
+
+* 1x BasePlate
+* 2x Wheel
+* 2x WheelMount
 
 ## Parts used in my build
 
