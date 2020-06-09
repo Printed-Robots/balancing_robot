@@ -1,4 +1,4 @@
-# Balancing Robot Version 1.0
+# Balancing Robot Version 2.0
 
 These are the CAD files, which are necessary to print your own balancing robot. Feel free to take a look at the [robot assembly file](stl/RobotAssembly.stl) in this repository!
 
